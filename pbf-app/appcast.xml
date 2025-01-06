@@ -8,7 +8,7 @@
             <pubDate>Tue, 13 Dec 2024 12:00:00 +0000</pubDate>
             <enclosure
                 url="https://apps.apple.com/tw/app/%E6%A9%98%E9%BD%A1%E4%BA%A4%E5%8F%8B/id6477379780"
-                sparkle:version="1.4.0" sparkle:os="iOS" />
+                sparkle:version="1.4.0" />
             <sparkle:tags>
                 <sparkle:criticalUpdate />
             </sparkle:tags>
