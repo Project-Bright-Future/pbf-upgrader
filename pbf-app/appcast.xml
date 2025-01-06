@@ -3,14 +3,14 @@
     <channel>
         <item>
             <description>在這個版本中，我們修正了部分錯誤，提升 app 效能，增加穩定性。</description>
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.5.0" />
+        </item>
+        <item>
+            <description>在這個版本中，我們修正了部分錯誤，提升 app 效能，增加穩定性。</description>
             <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.4.0" />
             <sparkle:tags>
                 <sparkle:criticalUpdate />
             </sparkle:tags>
-        </item>
-        <item>
-            <description>在這個版本中，我們修正了部分錯誤，提升 app 效能，增加穩定性。</description>
-            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.5.0" />
         </item>
     </channel>
 </rss>
