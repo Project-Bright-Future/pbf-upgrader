@@ -5,20 +5,11 @@
         <item>
             <title>版本 1.7.0</title>
             <description>在這個版本中，我們修正了部分錯誤，提升 app 效能，增加穩定性。</description>
-            <pubDate>Tue, 13 Dec 2024 12:00:00 +0000</pubDate>
+            <pubDate>Tue, 15 Dec 2024 12:00:00 +0000</pubDate>
             <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.0" />
             <!-- <sparkle:tags>
                 <sparkle:criticalUpdate />
             </sparkle:tags> -->
         </item>
-        <!-- <item>
-            <title>版本 1.4.0</title>
-            <description>在這個版本中，我們修正了部分錯誤，提升 app 效能，增加穩定性。</description>
-            <pubDate>Tue, 13 Dec 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.4.0" />
-            <sparkle:tags>
-                <sparkle:criticalUpdate />
-            </sparkle:tags>
-        </item> -->
     </channel>
 </rss>
