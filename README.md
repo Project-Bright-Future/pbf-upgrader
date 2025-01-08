@@ -22,7 +22,7 @@ The URL where the user can download the new version of the app. This URL will be
 **[https://onelink.to/zqfayt](https://onelink.to/zqfayt)**  
 This URL directs users to the appropriate download page for the latest app version.
 
-### 4. **Sparkle Version**  
+### 4. **App Version**  
 The `sparkle:version` attribute indicates the version number of the app that is being offered in the update. It is used to compare against the user's current app version. If the user's app version is lower than the one specified here, the alert will trigger.  
 For example:  
 **`sparkle:version="1.3.19"`**  
