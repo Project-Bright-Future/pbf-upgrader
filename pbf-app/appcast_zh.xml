@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>橘齡交友~~~~</title>
         <item>
+            <title>新版本更新來啦！</title>
             <description>在這個版本中，我們修正了部分錯誤，提升 app 效能，增加穩定性。</description>
             <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.0" />
-            <!-- <sparkle:tags>
-                <sparkle:criticalUpdate />
-            </sparkle:tags> -->
+            <sparkle:tags>
+                <!-- <sparkle:criticalUpdate /> -->
+            </sparkle:tags>
         </item>
     </channel>
 </rss>

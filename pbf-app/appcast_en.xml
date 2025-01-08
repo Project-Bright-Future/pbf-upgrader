@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <item>
+            <description>In this version, we have fixed some bugs, improved app performance, and
+                enhanced stability.</description>
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.0" />
+            <sparkle:tags>
+                <!-- <sparkle:criticalUpdate /> -->
+            </sparkle:tags>
+        </item>
+    </channel>
+</rss>
