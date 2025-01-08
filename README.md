@@ -2,6 +2,11 @@
 
 This project handles app version updates through an XML-based feed that triggers alerts within the app. The update feed is structured in the [RSS format](https://www.rssboard.org/), and it integrates with the Sparkle framework for macOS updates.
 
+## Branches
+
+- Release Version Branch: The release version of the app is managed in the `main` branch.
+- Debug Version Branch: The debug version of the app is managed in the `test001` branch.
+
 ## Key Components of the XML
 
 ### 1. **Title**  
