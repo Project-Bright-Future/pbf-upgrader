@@ -6,7 +6,7 @@
             <description>In this version, we have fixed some bugs, improved app performance, and enhanced stability.</description>
             <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.0" />
             <sparkle:tags>
-                <!-- <sparkle:criticalUpdate /> -->
+                <sparkle:criticalUpdate />
             </sparkle:tags>
         </item>
     </channel>
