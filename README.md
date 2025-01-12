@@ -38,6 +38,13 @@ For example:
 ```
 This will ensure the user must update to the latest version before proceeding with using the app.
 
+### 6. **Target Platform**
+The `sparkle:os` attribute in the enclosure tag specifies which operating system the update is for. This allows for platform-specific updates.
+- Can be set to "iOS" or "android"
+- If not specified, the update applies to all platforms
+For example:
+**`sparkle:os="iOS"`** or **`sparkle:os="android"`**
+
 ---
 
 ## How It Works
@@ -62,7 +69,15 @@ This will ensure the user must update to the latest version before proceeding wi
         <item>
             <title>New Version Update!</title>
             <description>In this version, we have fixed some bugs, improved app performance, and enhanced stability.</description>
-            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.3.19" />
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.3.19" sparkle:os="iOS" />
+            <sparkle:tags>
+                <!-- <sparkle:criticalUpdate /> -->
+            </sparkle:tags>
+        </item>
+        <item>
+            <title>New Version Update!</title>
+            <description>In this version, we have fixed some bugs, improved app performance, and enhanced stability.</description>
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.3.19" sparkle:os="android" />
             <sparkle:tags>
                 <!-- <sparkle:criticalUpdate /> -->
             </sparkle:tags>
