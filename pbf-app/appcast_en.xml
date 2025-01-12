@@ -2,9 +2,17 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <item>
-            <title>New Version Update!</title>
+            <title>New Version Update! ios ios</title>
             <description>In this version, we have fixed some bugs, improved app performance, and enhanced stability.</description>
-            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.0" />
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.0" sparkle:os="iOS" />
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+        </item>
+        <item>
+            <title>New Version Update! android android</title>
+            <description>In this version, we have fixed some bugs, improved app performance, and enhanced stability.</description>
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.0" sparkle:os="android" />
             <sparkle:tags>
                 <sparkle:criticalUpdate />
             </sparkle:tags>
