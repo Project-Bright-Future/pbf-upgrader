@@ -4,7 +4,7 @@
         <item>
             <title>New Version Update!</title>
             <description>In this update, we have improved the app's performance and fixed some bugs.</description>
-            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.10" sparkle:os="iOS" />
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.12" sparkle:os="iOS" />
             <sparkle:tags>
                 <sparkle:criticalUpdate />
             </sparkle:tags>
