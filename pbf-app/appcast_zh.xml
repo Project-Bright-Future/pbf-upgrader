@@ -4,7 +4,7 @@
         <item>
             <title>新版本更新來啦！</title>
             <description>我們聽取了您的反饋，這次更新專注於優化使用體驗，讓界面更清晰、操作更順手！</description>
-            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.14" sparkle:os="android" />
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.14" />
             <sparkle:tags>
                 <!-- <sparkle:criticalUpdate /> -->
             </sparkle:tags>

@@ -4,7 +4,7 @@
         <item>
             <title>New Version Update!</title>
             <description>Based on your feedback, this update optimizes user experience with a cleaner interface and more intuitive controls!</description>
-            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.14" sparkle:os="android" />
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.14" />
             <sparkle:tags>
                 <!-- <sparkle:criticalUpdate /> -->
             </sparkle:tags>
