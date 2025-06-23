@@ -4,7 +4,7 @@
         <item>
             <title>新版本更新來啦！</title>
             <description>感謝用戶反饋！我們修復了一個重要錯誤，讓 App 運行更加穩定流暢。</description>
-            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.16" sparkle:os="iOS" />
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.16" />
             <sparkle:tags>
                 <sparkle:criticalUpdate />
             </sparkle:tags>
