@@ -3,10 +3,10 @@
     <channel>
         <item>
             <title>New Version Update!</title>
-            <description>Based on your feedback, this update optimizes user experience with a cleaner interface and more intuitive controls!</description>
-            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.14" />
+            <description>Thanks for your feedback! We've fixed an important bug to make the app more stable and smooth.</description>
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.16" sparkle:os="iOS" />
             <sparkle:tags>
-                <!-- <sparkle:criticalUpdate /> -->
+                <sparkle:criticalUpdate />
             </sparkle:tags>
         </item>
     </channel>

@@ -3,10 +3,10 @@
     <channel>
         <item>
             <title>新版本更新來啦！</title>
-            <description>我們聽取了您的反饋，這次更新專注於優化使用體驗，讓界面更清晰、操作更順手！</description>
-            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.14" />
+            <description>感謝用戶反饋！我們修復了一個重要錯誤，讓 App 運行更加穩定流暢。</description>
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.16" sparkle:os="iOS" />
             <sparkle:tags>
-                <!-- <sparkle:criticalUpdate /> -->
+                <sparkle:criticalUpdate />
             </sparkle:tags>
         </item>
     </channel>
