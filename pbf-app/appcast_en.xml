@@ -3,8 +3,8 @@
     <channel>
         <item>
             <title>New Version Update!</title>
-            <description>Thanks for your feedback! We've fixed an important bug to make the app more stable and smooth.</description>
-            <enclosure url="https://onelink.to/zqfayt" sparkle:version="1.7.16" />
+            <description>New daily random messages feature! Thanks for your valuable feedback and support.</description>
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="2.0.0" sparkle:os="android" />
             <sparkle:tags>
                 <sparkle:criticalUpdate />
             </sparkle:tags>
