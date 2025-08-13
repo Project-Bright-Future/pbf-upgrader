@@ -3,8 +3,8 @@
     <channel>
         <item>
             <title>New Version Update!</title>
-            <description>New daily random messages feature! Thanks for your valuable feedback and support.</description>
-            <enclosure url="https://onelink.to/zqfayt" sparkle:version="2.0.0" />
+            <description>Effort level feature is now live! Thanks for your valuable feedback and support.</description>
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="2.1.0" />
             <sparkle:tags>
                 <sparkle:criticalUpdate />
             </sparkle:tags>

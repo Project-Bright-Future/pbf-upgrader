@@ -3,8 +3,8 @@
     <channel>
         <item>
             <title>新版本更新來啦！</title>
-            <description>新增每日隨機訊息功能！感謝大家的寶貴意見與支持。</description>
-            <enclosure url="https://onelink.to/zqfayt" sparkle:version="2.0.0" />
+            <description>用心程度評級上線啦！感謝大家的寶貴意見與支持。</description>
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="2.1.0" />
             <sparkle:tags>
                 <sparkle:criticalUpdate />
             </sparkle:tags>
