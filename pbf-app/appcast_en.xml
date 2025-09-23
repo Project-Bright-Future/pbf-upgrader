@@ -3,10 +3,10 @@
     <channel>
         <item>
             <title>New Version Update!</title>
-            <description>Dating report is now live! Thanks for your valuable feedback and support.</description>
-            <enclosure url="https://onelink.to/zqfayt" sparkle:version="2.2.0" />
+            <description>Optimized registration process for improved user experience. Thanks for your valuable feedback and support!</description>
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="2.3.0" />
             <sparkle:tags>
-                <sparkle:criticalUpdate />
+                <!-- <sparkle:criticalUpdate /> -->
             </sparkle:tags>
         </item>
     </channel>

@@ -3,10 +3,10 @@
     <channel>
         <item>
             <title>新版本更新來啦！</title>
-            <description>個人交友報告上線啦！感謝大家的寶貴意見與支持。</description>
-            <enclosure url="https://onelink.to/zqfayt" sparkle:version="2.2.0" />
+            <description>優化註冊流程，改善使用體驗。感謝用戶們的持續支持與建議！</description>
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="2.3.0" />
             <sparkle:tags>
-                <sparkle:criticalUpdate />
+                <!-- <sparkle:criticalUpdate /> -->
             </sparkle:tags>
         </item>
     </channel>
