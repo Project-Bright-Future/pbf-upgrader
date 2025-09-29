@@ -3,10 +3,10 @@
     <channel>
         <item>
             <title>New Version Update!</title>
-            <description>Optimized registration process for improved user experience. Thanks for your valuable feedback and support!</description>
-            <enclosure url="https://onelink.to/zqfayt" sparkle:version="2.3.0" />
+            <description>We've fixed some issues. Thanks for your valuable feedback and support!</description>
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="2.3.1" sparkle:os="iOS" />
             <sparkle:tags>
-                <!-- <sparkle:criticalUpdate /> -->
+                <sparkle:criticalUpdate />
             </sparkle:tags>
         </item>
     </channel>
