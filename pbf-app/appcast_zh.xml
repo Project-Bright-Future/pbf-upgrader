@@ -4,7 +4,7 @@
         <item>
             <title>新版本更新來啦！</title>
             <description>修復了一些問題。感謝用戶們的持續支持與建議！</description>
-            <enclosure url="https://onelink.to/zqfayt" sparkle:version="2.5.0" />
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="2.5.1" />
             <sparkle:tags>
                 <sparkle:criticalUpdate />
             </sparkle:tags>
