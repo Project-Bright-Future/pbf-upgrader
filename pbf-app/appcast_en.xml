@@ -4,7 +4,7 @@
         <item>
             <title>New Version Update!</title>
             <description>We've fixed some issues. Thanks for your valuable feedback and support!</description>
-            <enclosure url="https://onelink.to/zqfayt" sparkle:version="2.6.2" />
+            <enclosure url="https://onelink.to/zqfayt" sparkle:version="2.6.4" />
             <sparkle:tags>
                 <sparkle:criticalUpdate />
             </sparkle:tags>
